@@ -1,0 +1,8 @@
+name: Repo printer
+description: Prints repo name
+runs:
+  using: 'Docker'
+  image: 'Dockerfile'
+brandning:
+  icon: 'gift'
+  color: 'blue'
